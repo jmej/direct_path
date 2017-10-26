@@ -1,0 +1,85 @@
+{
+	"pattrstorage" : 	{
+		"name" : "Untitled",
+		"slots" : 		{
+			"1" : 			{
+				"id" : 1,
+				"data" : 				{
+					"bpatcher-version::-grains-on-off" : [ 1 ],
+					"bpatcher-version::-grains-time" : [ 169 ],
+					"bpatcher-version::duration-lo-hi" : [ 102, 254 ],
+					"bpatcher-version::location-lo-hi" : [ 7, 7 ],
+					"bpatcher-version::pan-lo-hi" : [ 16, 109 ],
+					"bpatcher-version::transpo-lo-hi" : [ 64, 64 ],
+					"bpatcher-version[1]::-grains-on-off" : [ 1 ],
+					"bpatcher-version[1]::-grains-time" : [ 169 ],
+					"bpatcher-version[1]::duration-lo-hi" : [ 102, 254 ],
+					"bpatcher-version[1]::location-lo-hi" : [ 15, 15 ],
+					"bpatcher-version[1]::pan-lo-hi" : [ 16, 109 ],
+					"bpatcher-version[1]::transpo-lo-hi" : [ 64, 64 ]
+				}
+
+			}
+,
+			"2" : 			{
+				"id" : 2,
+				"data" : 				{
+					"bpatcher-version::-grains-on-off" : [ 1 ],
+					"bpatcher-version::-grains-time" : [ 50 ],
+					"bpatcher-version::duration-lo-hi" : [ 125, 185 ],
+					"bpatcher-version::location-lo-hi" : [ 7, 7 ],
+					"bpatcher-version::pan-lo-hi" : [ 37, 73 ],
+					"bpatcher-version::transpo-lo-hi" : [ 64, 64 ],
+					"bpatcher-version[1]::-grains-on-off" : [ 1 ],
+					"bpatcher-version[1]::-grains-time" : [ 42 ],
+					"bpatcher-version[1]::duration-lo-hi" : [ 177, 243 ],
+					"bpatcher-version[1]::location-lo-hi" : [ 25, 25 ],
+					"bpatcher-version[1]::pan-lo-hi" : [ 1, 93 ],
+					"bpatcher-version[1]::transpo-lo-hi" : [ 64, 64 ]
+				}
+
+			}
+,
+			"3" : 			{
+				"id" : 3,
+				"data" : 				{
+					"bpatcher-version::-grains-on-off" : [ 1 ],
+					"bpatcher-version::-grains-time" : [ 290 ],
+					"bpatcher-version::duration-lo-hi" : [ 41, 338 ],
+					"bpatcher-version::location-lo-hi" : [ 28, 28 ],
+					"bpatcher-version::pan-lo-hi" : [ 16, 109 ],
+					"bpatcher-version::transpo-lo-hi" : [ 64, 64 ],
+					"bpatcher-version[1]::-grains-on-off" : [ 1 ],
+					"bpatcher-version[1]::-grains-time" : [ 290 ],
+					"bpatcher-version[1]::duration-lo-hi" : [ 70, 368 ],
+					"bpatcher-version[1]::location-lo-hi" : [ 25, 25 ],
+					"bpatcher-version[1]::pan-lo-hi" : [ 16, 109 ],
+					"bpatcher-version[1]::transpo-lo-hi" : [ 64, 64 ]
+				}
+
+			}
+,
+			"4" : 			{
+				"id" : 4,
+				"data" : 				{
+					"bpatcher-version::-grains-on-off" : [ 1 ],
+					"bpatcher-version::-grains-time" : [ 156 ],
+					"bpatcher-version::duration-lo-hi" : [ 99, 269 ],
+					"bpatcher-version::location-lo-hi" : [ 37, 37 ],
+					"bpatcher-version::pan-lo-hi" : [ 16, 109 ],
+					"bpatcher-version::transpo-lo-hi" : [ 64, 64 ],
+					"bpatcher-version[1]::-grains-on-off" : [ 1 ],
+					"bpatcher-version[1]::-grains-time" : [ 156 ],
+					"bpatcher-version[1]::duration-lo-hi" : [ 51, 256 ],
+					"bpatcher-version[1]::location-lo-hi" : [ 40, 40 ],
+					"bpatcher-version[1]::pan-lo-hi" : [ 16, 109 ],
+					"bpatcher-version[1]::transpo-lo-hi" : [ 64, 64 ]
+				}
+
+			}
+
+		}
+
+	}
+
+}
